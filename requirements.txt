@@ -1,4 +1,5 @@
-# Veille Audio - dependances
-requests>=2.31.0
-curl_cffi>=0.7.0
-edge-tts>=7.0.0
+# Veille Audio - dependances (versions figees : mettre a jour volontairement,
+# puis relancer les tests)
+requests==2.34.2
+curl_cffi==0.17.0
+edge-tts==7.3.1

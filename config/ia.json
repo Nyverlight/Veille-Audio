@@ -9,15 +9,18 @@
   "rate": "+0%",
 
   "lookback_hours": 30,
-  "max_items_fetch": 60,
+  "max_lookback_hours": 96,
+  "max_items_fetch": 80,
+  "max_items_per_feed": 8,
 
   "feed_file": "feed-ia.xml",
   "audio_dir": "audio/ia",
   "cover": "covers/ia.jpg",
   "feed_title": "Ma veille IA quotidienne",
-  "feed_description": "Resume audio quotidien des actualites de l'intelligence artificielle, en francais.",
+  "feed_description": "Résumé audio quotidien des actualités de l'intelligence artificielle, en français.",
   "feed_author": "Veille Audio",
   "feed_language": "fr-FR",
+  "feed_category": "Technology",
 
   "base_url": "https://nyverlight.github.io/Veille-Audio",
   "keep_episodes": 30

@@ -219,3 +219,9 @@ __marimo__/
 
 # Fichiers de travail intermediaires de la veille audio
 work/
+
+# Site publie sur la branche gh-pages par `veille.py deploy` (jamais dans main)
+audio/**/*.mp3
+audio/**/*.part
+feed-*.xml
+feed-*.xml.tmp

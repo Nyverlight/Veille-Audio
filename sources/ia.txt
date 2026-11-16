@@ -54,5 +54,44 @@ https://deepmind.google/blog/rss.xml
 # https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml
 
 # --- Meta AI : PAS de flux RSS natif sur ai.meta.com/blog (404).
-# Alternative orientee R&D (a confirmer au premier run) :
+# research.facebook.com/feed/ repond mais n'a rien publie depuis > 30 jours
+# (teste le 2026-11-16) : laisse de cote.
 # https://research.facebook.com/feed/
+
+# ============================================================
+#  Ajouts du 2026-11-16 (tous testes [OK] ce jour-la)
+# ============================================================
+# --- Labos / acteurs ---
+https://blog.google/technology/ai/rss/
+https://research.google/blog/rss/
+https://www.microsoft.com/en-us/research/feed/
+https://mistral.ai/rss.xml
+https://blogs.nvidia.com/feed/
+https://aws.amazon.com/blogs/machine-learning/feed/
+
+# --- Presse et analyses anglophones ---
+https://the-decoder.com/feed/
+https://www.wired.com/feed/tag/ai/latest/rss
+https://www.theguardian.com/technology/artificialintelligenceai/rss
+https://simonwillison.net/atom/everything/
+https://www.latent.space/feed
+https://lastweekin.ai/feed
+
+# --- Francophones ---
+https://www.lemondeinformatique.fr/flux-rss/thematique/intelligence-artificielle/rss.xml
+https://www.usine-digitale.fr/rss
+# CNIL : regulation / sanctions (faible volume).
+https://www.cnil.fr/fr/rss.xml
+
+# --- Versions d'outils (flux Atom GitHub) ---
+https://github.com/anthropics/claude-code/releases.atom
+https://github.com/ollama/ollama/releases.atom
+
+# --- Testes mais NON retenus ---
+# Next : flux generaliste (50 articles, peu d'IA) -> bruit.
+# https://next.ink/feed/
+# ZDNet France : le flux "IA" renvoie en fait toute l'actualite du site.
+# https://www.zdnet.fr/feeds/rss/actualites/intelligence-artificielle/
+# Hacker News filtre : HTTP 502 le 2026-11-16, a retenter.
+# https://hnrss.org/newest?q=AI+OR+LLM&points=200
+# Numerama IA : 404 (URL morte).

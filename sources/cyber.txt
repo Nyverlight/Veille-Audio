@@ -74,6 +74,49 @@ https://www.microsoft.com/en-us/security/blog/feed/
 https://googleprojectzero.blogspot.com/feeds/posts/default
 https://isc.sans.edu/rssfeed.xml
 
-# --- À confirmer (flux Blogger/Feedburner susceptibles d'évoluer) ---
-# Cisco Talos : si l'URL ci-dessous échoue, essayer le Feedburner Talos.
-# https://blog.talosintelligence.com/rss/
+https://blog.talosintelligence.com/rss/
+
+# ============================================================
+#  Ajouts du 2026-11-16 (tous testés [OK] ce jour-là)
+# ============================================================
+# --- CISA KEV : vulnérabilités ACTIVEMENT EXPLOITÉES (priorité n°1 de la
+#     ligne éditoriale). Catalogue JSON, lu par un adaptateur dédié de
+#     fetch_news.py ; seules les entrées récentes sont retenues.
+https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json
+
+# --- Presse anglophone ---
+https://www.helpnetsecurity.com/feed/
+https://cyberscoop.com/feed/
+https://www.cybersecuritydive.com/feeds/news/
+https://www.infosecurity-magazine.com/rss/news/
+https://arstechnica.com/security/feed/
+https://www.wired.com/feed/category/security/latest/rss
+
+# --- Presse francophone ---
+https://www.numerama.com/politique/cyberguerre/feed/
+https://www.undernews.fr/feed
+https://www.welivesecurity.com/fr/rss/feed/
+
+# --- Agences ---
+https://www.cert.ssi.gouv.fr/cti/feed/
+https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml
+
+# --- Threat intelligence / recherche ---
+https://research.checkpoint.com/feed/
+https://www.sentinelone.com/labs/feed/
+https://blog.sekoia.io/feed/
+https://www.zerodayinitiative.com/blog?format=rss
+https://www.troyhunt.com/rss/
+https://doublepulsar.com/feed
+
+# --- Systèmes industriels / OT ---
+https://industrialcyber.co/feed/
+
+# --- Testés mais NON retenus ---
+# Flux généralistes (toute l'actualité IT, peu de cyber) -> bruit :
+# https://www.silicon.fr/feed
+# https://www.lemagit.fr/rss/ContentSyndication.xml
+# XML invalide côté éditeur le 2026-11-16, à retenter :
+# https://msrc.microsoft.com/blog/feed
+# https://www.rapid7.com/blog/rss/
+# 404 : dragos.com/blog/feed/, cyber.gouv.fr/actualites/feed

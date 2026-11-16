@@ -9,15 +9,18 @@
   "rate": "+0%",
 
   "lookback_hours": 30,
+  "max_lookback_hours": 96,
   "max_items_fetch": 80,
+  "max_items_per_feed": 8,
 
   "feed_file": "feed-cyber.xml",
   "audio_dir": "audio/cyber",
   "cover": "covers/cyber.jpg",
   "feed_title": "Ma veille cybersécurité quotidienne",
-  "feed_description": "Resume audio quotidien des actualites de la cybersecurite, en francais.",
+  "feed_description": "Résumé audio quotidien des actualités de la cybersécurité, en français.",
   "feed_author": "Veille Audio",
   "feed_language": "fr-FR",
+  "feed_category": "Technology",
 
   "base_url": "https://nyverlight.github.io/Veille-Audio",
   "keep_episodes": 30
