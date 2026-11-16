@@ -1,0 +1,24 @@
+{
+  "domain_label": "Intelligence artificielle",
+  "domain_slug": "ia",
+  "episode_title_prefix": "Veille IA",
+  "sources_file": "sources/ia.txt",
+  "editorial_file": "prompts/ia.md",
+
+  "voice": "fr-FR-RemyMultilingualNeural",
+  "rate": "+0%",
+
+  "lookback_hours": 30,
+  "max_items_fetch": 60,
+
+  "feed_file": "feed-ia.xml",
+  "audio_dir": "audio/ia",
+  "cover": "covers/ia.jpg",
+  "feed_title": "Ma veille IA quotidienne",
+  "feed_description": "Resume audio quotidien des actualites de l'intelligence artificielle, en francais.",
+  "feed_author": "Veille Audio",
+  "feed_language": "fr-FR",
+
+  "base_url": "https://nyverlight.github.io/Veille-Audio",
+  "keep_episodes": 30
+}
