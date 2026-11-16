@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Ma veille cybersécurité quotidienne</title>
+    <link>https://nyverlight.github.io/Veille-Audio</link>
+    <language>fr-FR</language>
+    <description>Resume audio quotidien des actualites de la cybersecurite, en francais.</description>
+    <itunes:author>Veille Audio</itunes:author>
+    <itunes:image href="https://nyverlight.github.io/Veille-Audio/covers/cyber.jpg" />
+    <item>
+      <title>Veille Cyber - 2026-11-16</title>
+      <description>Fuite Maileva chez La Poste (22 millions de personnes), failles UnrealIRCd et Copeland exploitées, extension Claude Code piégée chez Cursor et attaques pilotées par l'IA.</description>
+      <guid>https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-16.mp3</guid>
+      <pubDate>Mon, 16 Nov 2026 12:31:28 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-16.mp3" length="2354112" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
