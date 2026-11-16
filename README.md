@@ -8,10 +8,6 @@ Le traitement tourne **en local, sur votre PC**, via une tâche programmée de
 l'application Claude Desktop. Le stockage et la diffusion passent par ce dépôt
 GitHub + GitHub Pages (gratuits).
 
-> Ce dépôt remplace les anciens dépôts `veille-audio-IA` et
-> `veille-audio-cyber`, qui tournaient chacun via une routine cloud
-> séparée. Voir la section [L](#l-migration-depuis-les-anciens-dépôts).
-
 ---
 
 ## Sommaire
@@ -338,29 +334,3 @@ après la rétention. Avec deux domaines, le dépôt grossit d'environ 1,5 Go
 par an. La limite recommandée par GitHub est de 1 Go par dépôt et de 1 Go
 pour un site Pages : prévoyez de purger l'historique (ou de repartir d'un
 historique propre) environ une fois par an.
-
----
-
-## L. Migration depuis les anciens dépôts
-
-Avant novembre 2026, la veille tournait dans deux dépôts séparés,
-`veille-audio-IA` et `veille-audio-cyber`, chacun avec sa propre routine
-**cloud** sur claude.ai. Ce dépôt les fusionne :
-
-| | Avant | Maintenant |
-|---|---|---|
-| Dépôts | 2 (un par domaine) | 1 |
-| Exécution | routines cloud claude.ai | tâche locale Claude Desktop |
-| Scripts | dupliqués | communs |
-| Réseau | liste blanche de domaines à tenir à jour | accès Internet normal du PC |
-| Installation | `setup.sh` + injection de certificats proxy | `.venv` local |
-| Flux | `veille-audio-IA/feed.xml`, `veille-audio-cyber/feed.xml` | `Veille-Audio/feed-ia.xml`, `Veille-Audio/feed-cyber.xml` |
-
-Après migration :
-
-1. Abonnez-vous aux deux nouveaux flux (section I) et désabonnez-vous des
-   anciens.
-2. Archivez les anciens dépôts sur GitHub (Settings → **Archive this
-   repository**) plutôt que de les supprimer.
-3. Supprimez les deux anciennes routines sur `claude.ai/code/routines`
-   (« Veille technologique IA » et « Veille technologique Cyber »).
