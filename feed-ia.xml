@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Ma veille IA quotidienne</title>
+    <link>https://nyverlight.github.io/Veille-Audio</link>
+    <atom:link href="https://nyverlight.github.io/Veille-Audio/feed-ia.xml" rel="self" type="application/rss+xml" />
+    <language>fr-FR</language>
+    <description>Résumé audio quotidien des actualités de l'intelligence artificielle, en français.</description>
+    <lastBuildDate>Sat, 21 Nov 2026 05:14:44 +0000</lastBuildDate>
+    <itunes:author>Veille Audio</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology" />
+    <itunes:image href="https://nyverlight.github.io/Veille-Audio/covers/ia.jpg" />
+    <item>
+      <title>Veille IA du 21 novembre 2026</title>
+      <description>Hypothèse de Riemann : annonces de preuves avec l'IA, deuxième jour agité pour Anthropic en Bourse, et Trump sur les centres de données.</description>
+      <guid isPermaLink="false">https://nyverlight.github.io/Veille-Audio/audio/ia/ia-2026-11-21.mp3</guid>
+      <pubDate>Sat, 21 Nov 2026 05:14:44 +0000</pubDate>
+      <itunes:duration>210</itunes:duration>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/ia/ia-2026-11-21.mp3" length="1262592" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Veille IA du 20 novembre 2026</title>
+      <description>Anthropic en Bourse, durcissement des exportations de puces vers la Chine, agents sur Mac chez Google et Apple</description>
+      <guid isPermaLink="false">https://nyverlight.github.io/Veille-Audio/audio/ia/ia-2026-11-20.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 05:13:05 +0000</pubDate>
+      <itunes:duration>333</itunes:duration>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/ia/ia-2026-11-20.mp3" length="1996992" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Veille IA du 19 novembre 2026</title>
+      <description>Anthropic fixe le prix de son introduction en Bourse, Google sort Gemini 4 Neon, et l'affaire Nvidia continue.</description>
+      <guid isPermaLink="false">https://nyverlight.github.io/Veille-Audio/audio/ia/ia-2026-11-19.mp3</guid>
+      <pubDate>Thu, 19 Nov 2026 05:12:10 +0000</pubDate>
+      <itunes:duration>294</itunes:duration>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/ia/ia-2026-11-19.mp3" length="1764288" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Veille IA du 18 novembre 2026</title>
+      <description>Nvidia ne réintégrera pas Jensen Huang, OpenAI lance GPT-6.2 Astra et Sol, et l'introduction en Bourse d'Anthropic approche.</description>
+      <guid isPermaLink="false">https://nyverlight.github.io/Veille-Audio/audio/ia/ia-2026-11-18.mp3</guid>
+      <pubDate>Wed, 18 Nov 2026 05:12:53 +0000</pubDate>
+      <itunes:duration>245</itunes:duration>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/ia/ia-2026-11-18.mp3" length="1472688" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Veille IA du 17 novembre 2026</title>
+      <description>Nouveaux rebondissements chez Nvidia, Californie contre OpenAI, alerte Google sur les cyberattaques automatisées par IA et restrictions américaines sur l'accès distant aux puces.</description>
+      <guid isPermaLink="false">https://nyverlight.github.io/Veille-Audio/audio/ia/ia-2026-11-17.mp3</guid>
+      <pubDate>Tue, 17 Nov 2026 05:13:06 +0000</pubDate>
+      <itunes:duration>309</itunes:duration>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/ia/ia-2026-11-17.mp3" length="1851120" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Veille IA du 16 novembre 2026</title>
+      <description>Crise de gouvernance chez Nvidia, introduction en Bourse d'Anthropic cette semaine et lancement de ChatGPT Wallet pour les agents d'OpenAI.</description>
+      <guid isPermaLink="false">https://nyverlight.github.io/Veille-Audio/audio/ia/ia-2026-11-16.mp3</guid>
+      <pubDate>Mon, 16 Nov 2026 13:06:52 +0000</pubDate>
+      <itunes:duration>320</itunes:duration>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/ia/ia-2026-11-16.mp3" length="1917360" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
