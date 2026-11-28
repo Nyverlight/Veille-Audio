@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Ma veille cybersécurité quotidienne</title>
+    <link>https://nyverlight.github.io/Veille-Audio</link>
+    <atom:link href="https://nyverlight.github.io/Veille-Audio/feed-cyber.xml" rel="self" type="application/rss+xml" />
+    <language>fr-FR</language>
+    <description>Résumé audio quotidien des actualités de la cybersécurité, en français.</description>
+    <lastBuildDate>Sat, 28 Nov 2026 05:12:08 +0000</lastBuildDate>
+    <itunes:author>Veille Audio</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology" />
+    <itunes:image href="https://nyverlight.github.io/Veille-Audio/covers/cyber.jpg" />
+    <item>
+      <title>Veille Cyber du 28 novembre 2026</title>
+      <description>GeoServer et Drupal au catalogue KEV de la CISA, rançongiciels contre les hyperviseurs ESXi et Proxmox, installateurs SoftwareOK piégés et suites de l'intrusion chez SAP.</description>
+      <guid isPermaLink="false">https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-28.mp3</guid>
+      <pubDate>Sat, 28 Nov 2026 05:12:08 +0000</pubDate>
+      <itunes:duration>354</itunes:duration>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-28.mp3" length="2126592" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Veille Cyber du 27 novembre 2026</title>
+      <description>Zero-day Cacti non corrigée et nouvelle faille Drupal exploitée, intrusions chez SAP et 1Password, infrastructures critiques attaquées et attaques assistées par IA confirmées en Suisse.</description>
+      <guid isPermaLink="false">https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-27.mp3</guid>
+      <pubDate>Fri, 27 Nov 2026 08:15:55 +0000</pubDate>
+      <itunes:duration>403</itunes:duration>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-27.mp3" length="2419632" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Veille Cyber du 26 novembre 2026</title>
+      <description>Équipements Palo Alto attaqués et dix failles ajoutées au catalogue CISA, vol de données chez 1Password, et ARTEX, l'outil d'IA détourné par des groupes étatiques.</description>
+      <guid isPermaLink="false">https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-26.mp3</guid>
+      <pubDate>Thu, 26 Nov 2026 05:12:46 +0000</pubDate>
+      <itunes:duration>356</itunes:duration>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-26.mp3" length="2133792" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Veille Cyber du 25 novembre 2026</title>
+      <description>Check Point compromis par une campagne assistée par IA, correctifs critiques VMware, intrusion dans un système de la CIA et retour des clients ShinyHunters sous le nom Inception.</description>
+      <guid isPermaLink="false">https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-25.mp3</guid>
+      <pubDate>Wed, 25 Nov 2026 05:12:17 +0000</pubDate>
+      <itunes:duration>301</itunes:duration>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-25.mp3" length="1804752" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Veille Cyber du 24 novembre 2026</title>
+      <description>Cisco Expressway et Azure API Management exploités, ScreenConnect visé, CrowdStrike rachète Zscaler pour 43,9 milliards de dollars</description>
+      <guid isPermaLink="false">https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-24.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 05:10:55 +0000</pubDate>
+      <itunes:duration>269</itunes:duration>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-24.mp3" length="1616544" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Veille Cyber du 23 novembre 2026</title>
+      <description>VMware vCenter exploité depuis septembre par ARMORY CASTLE, routeurs GL.iNet infectés, fuite de cartes chez Cleverbridge</description>
+      <guid isPermaLink="false">https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-23.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 05:09:51 +0000</pubDate>
+      <itunes:duration>192</itunes:duration>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-23.mp3" length="1152000" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Veille Cyber du 22 novembre 2026</title>
+      <description>Nouvelle intrusion présumée au FBI, fuites chez Microsoft Entra et Rackspace Spot, faille critique GPGME et point sur l'IA ARTEX.</description>
+      <guid isPermaLink="false">https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-22.mp3</guid>
+      <pubDate>Sun, 22 Nov 2026 05:09:45 +0000</pubDate>
+      <itunes:duration>225</itunes:duration>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-22.mp3" length="1349280" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Veille Cyber du 21 novembre 2026</title>
+      <description>Attaques pilotées par l'IA (Cairn, Commission européenne, Bell Canada), fuites JPMorgan/Visa/Mastercard, et failles exploitées VMware vCenter et Cisco Expressway.</description>
+      <guid isPermaLink="false">https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-21.mp3</guid>
+      <pubDate>Sat, 21 Nov 2026 05:12:36 +0000</pubDate>
+      <itunes:duration>308</itunes:duration>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-21.mp3" length="1846080" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Veille Cyber du 20 novembre 2026</title>
+      <description>VMware vCenter zero-day exploité par un groupe chinois, correctifs PHP publiés, attaque contre la Commission européenne</description>
+      <guid isPermaLink="false">https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-20.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 05:10:10 +0000</pubDate>
+      <itunes:duration>370</itunes:duration>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-20.mp3" length="2221200" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Veille Cyber du 19 novembre 2026</title>
+      <description>NGINX et cinq failles critiques, Apache Roller exploité, paquet Microsoft Agent Framework piégé sur PyPI, et suite de Java4Shell.</description>
+      <guid isPermaLink="false">https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-19.mp3</guid>
+      <pubDate>Thu, 19 Nov 2026 05:10:52 +0000</pubDate>
+      <itunes:duration>368</itunes:duration>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-19.mp3" length="2207376" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Veille Cyber du 18 novembre 2026</title>
+      <description>Java4Shell critique corrigée par Oracle, suite de l'attaque Optimizely sur 178 sites, incidents liés aux agents IA et pannes en série.</description>
+      <guid isPermaLink="false">https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-18.mp3</guid>
+      <pubDate>Wed, 18 Nov 2026 05:11:09 +0000</pubDate>
+      <itunes:duration>297</itunes:duration>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-18.mp3" length="1784880" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Veille Cyber du 17 novembre 2026</title>
+      <description>Chaîne d'approvisionnement Optimizely, attaques sur passerelles Check Point, alertes Google sur les attaques pilotées par IA et Project Zero raccourcit ses délais de divulgation.</description>
+      <guid isPermaLink="false">https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-17.mp3</guid>
+      <pubDate>Tue, 17 Nov 2026 05:11:03 +0000</pubDate>
+      <itunes:duration>340</itunes:duration>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-17.mp3" length="2041488" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Veille Cyber du 16 novembre 2026</title>
+      <description>Fuite Maileva chez La Poste (22 millions de personnes), failles UnrealIRCd et Copeland exploitées, extension Claude Code piégée chez Cursor et attaques pilotées par l'IA.</description>
+      <guid isPermaLink="false">https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-16.mp3</guid>
+      <pubDate>Mon, 16 Nov 2026 13:08:26 +0000</pubDate>
+      <itunes:duration>392</itunes:duration>
+      <enclosure url="https://nyverlight.github.io/Veille-Audio/audio/cyber/cyber-2026-11-16.mp3" length="2354112" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
