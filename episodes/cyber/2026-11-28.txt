@@ -1,0 +1,33 @@
+Bonjour et bienvenue dans votre veille cybersécurité du samedi 28 novembre 2026. Au programme, dix-neuf sujets, avec GeoServer et Drupal au catalogue des failles exploitées, des attaques contre des hyperviseurs, des installateurs piégés, de nouveaux incidents dans les administrations, et les suites du dossier SAP.
+
+On commence par les vulnérabilités activement exploitées. GeoServer, dont on parlait jeudi, figure désormais au catalogue des failles exploitées de la CISA. La référence C-V-E 2026-120705 est une injection XML : un attaquant non authentifié peut faire lire au serveur des fichiers texte locaux ou lui faire récupérer des adresses web de son choix. La référence C-V-E 2026-129243 est un défaut d'autorisation qui permet de contourner des contrôles de rôle. D'après les fiches de ce catalogue, chacune peut être chaînée avec d'autres vulnérabilités de GeoServer pour exécuter du code à distance sans authentification. Corrigez en priorité les instances exposées.
+
+Autre suite, la nouvelle faille Drupal évoquée hier, C-V-E 2026-136716, entre elle aussi dans ce catalogue. La CISA précise qu'elle permet à un attaquant non authentifié de prendre le contrôle d'un site via l'installeur exposé, lorsque le site se trouve dans certains états d'installation inhabituels ou incomplets. Vérifiez que le dernier correctif est bien en place.
+
+Côté virtualisation, IT-Connect rapporte que les rançongiciels BlackNevas et The Gentlemen ont frappé des hyperviseurs VMware ESXi et Proxmox VE avec de simples identifiants, volés ou stockés au mauvais endroit. C'est l'occasion de contrôler où sont conservés vos comptes d'administration d'hyperviseurs et qui peut y accéder.
+
+Passons à la chaîne d'approvisionnement logicielle. Selon The Hacker News, les fichiers d'installation de Q-Dir et DesktopOK, distribués par le site officiel SoftwareOK, ont été piégés pour déployer un logiciel d'accès à distance. D'après les chercheurs cités, des fichiers malveillants étaient produits lors d'un téléchargement direct, mais aussi lors de la mise à jour de programmes déjà installés. Recherchez ces deux utilitaires sur vos postes.
+
+Toujours selon The Hacker News, qui s'appuie sur eSentire, une application du Microsoft Store a servi à diffuser un cheval de Troie d'accès à distance baptisé Vinci RAT. L'intrusion commence par une redirection vers un faux site d'outil de capture d'écran, d'où provient un installateur signé par Microsoft. Une signature valide ne suffit donc pas à garantir la confiance.
+
+Côté incidents, on revient sur SAP, dont on parlait hier. D'après The Record et Le Monde Informatique, l'éditeur allemand a confirmé un incident, ou des activités suspectes. Selon des médias allemands, des attaquants auraient utilisé des jetons d'authentification volés à des employés pour accéder à du code source sur GitHub. L'incident porte en interne le nom de Project Granite. L'enquête continue, et SAP dit n'avoir trouvé aucune preuve d'accès non autorisé aux données métier de ses clients.
+
+Aux États-Unis, BleepingComputer et Numerama rapportent que des pirates auraient compromis Cloud One, la plateforme cloud de l'US Air Force. Cette plateforme héberge des données tactiques, logistiques et de personnel, et selon Numerama, les attaquants seraient parvenus jusqu'à sa couche d'administration. L'information reste à prendre au conditionnel.
+
+Au Royaume-Uni, d'après The Record, The Register et Infosecurity Magazine, le ministère du Travail et des Pensions a mis plusieurs services à l'arrêt par précaution après un incident cyber. Le versement des pensions et des prestations n'est pas affecté. Au Japon, selon The Record, le ministère de l'Éducation révèle une intrusion dans son système de marchés publics, avec une possible exposition d'informations sur des entreprises et d'adresses électroniques.
+
+Du côté des mots de passe, BleepingComputer indique que pCloud confirme une cyberattaque contre son gestionnaire pCloud Pass. Des utilisateurs avaient signalé des appareils inconnus connectés à leurs comptes, même avec la double authentification activée. Si vous l'utilisez, passez en revue les appareils connectés.
+
+Trois fuites de données ensuite. D'après BleepingComputer, Boston Scientific, entreprise de technologies médicales, notifie des personnes touchées par une cyberattaque, qui a exposé des informations personnelles et médicales. Selon SecurityWeek, des pirates ont pénétré myColorado, une application d'identité numérique et de stockage de documents, et accédé à des données déposées par les utilisateurs, avec cent mille personnes potentiellement concernées. Et sur Flight Centre, évoqué hier, Help Net Security précise que des noms et, dans de rares cas, des données de passeport et de santé ont pu être consultés dans un système de réservation d'hébergement tiers.
+
+Dans les crypto-actifs, Le Monde Informatique indique que Binance a achevé la remise en service des retraits, près d'un mois après le vol du 29 octobre, qui avait compromis plusieurs portefeuilles. Le média chiffre ce piratage à six milliards trois cents millions de dollars.
+
+Côté acteurs étatiques, SOCRadar, cité par The Hacker News, décrit une campagne d'espionnage baptisée WeaveLotus, attribuée à un groupe soutenu par le Vietnam. Elle vise des organisations militaires, gouvernementales et législatives d'Asie du Sud-Est, pour collecter du renseignement sur les accords de défense liés à la mer de Chine méridionale.
+
+Sur l'IA offensive, après nos épisodes sur l'outil ARTEX, voici un autre développement. Selon Infosecurity Magazine, la version open source de CyberStrikeAI, un outil de test d'intrusion par IA, a été définitivement retirée, mais une version destinée aux entreprises reste accessible.
+
+Côté défense, Le Monde Informatique relaie une étude de Palo Alto Networks. Quatre-vingt-dix-neuf pour cent des entreprises utiliseraient des agents d'IA dans leurs chaînes de développement, et la capacité de ces agents à modifier le code et à intervenir en production progresse plus vite que la sécurisation de leurs accès.
+
+On termine avec deux informations pour les administrateurs Windows. D'après IT-Connect, Microsoft a publié en urgence la mise à jour KB5138318 pour corriger les écrans bleus provoqués sur Windows Server 2025 par le correctif à chaud de novembre. Et selon BleepingComputer, le rôle serveur WSUS disparaîtra de Windows Server 2028. Il est temps d'anticiper l'évolution de votre gestion des mises à jour.
+
+Voilà pour aujourd'hui. Bon week-end, et à bientôt.

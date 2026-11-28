@@ -1,0 +1,31 @@
+Bonjour et bienvenue dans votre veille intelligence artificielle du samedi 28 novembre 2026. Au programme, quatorze sujets, avec les inquiétudes autour du chiffrement, le conflit entre OpenAI et Apple, de nouveaux épisodes chez Nvidia, les suppressions de postes envisagées chez SAP, et plusieurs nouveautés pour les agents.
+
+On commence par les mathématiques et le chiffrement. Hier, nous évoquions l'avis de Scott Aaronson sur de possibles surprises en cryptographie. The Guardian y consacre maintenant une enquête. Selon le journal, des experts de premier plan pensent que les laboratoires pourraient détenir une révélation majeure, susceptible de bousculer la sécurité des banques et des gouvernements d'ici quelques mois. The Guardian indique que le gouverneur de la Banque d'Angleterre fait partie de ceux qui évoquent cette possibilité. Aaronson parle de rumeurs bien étayées, selon lesquelles des modèles auraient progressé sur des problèmes anciens liés au codage des informations secrètes. Prudence : il s'agit de soupçons et de rumeurs, pas d'une démonstration que le chiffrement est cassé.
+
+Deuxième sujet, la justice. D'après The Decoder, OpenAI contre-attaque Apple devant un tribunal californien, en l'accusant de vol de secrets commerciaux et de pressions sur des fournisseurs communs. Cette action répond à la plainte déposée par Apple pendant l'été. Les deux entreprises s'étaient pourtant associées il y a deux ans pour intégrer ChatGPT à l'iPhone, et OpenAI développe désormais ses propres appareils concurrents.
+
+Troisième sujet, Nvidia. Selon une enquête de Bloomberg relayée par The Decoder, deux entreprises chinoises ont installé des puces Blackwell dans un centre de données de Shanghai lié à Alice Huang. Un numéro de série a conduit Bloomberg jusqu'au fabricant taïwanais Gigabyte. Exporter ces puces vers la Chine sans licence américaine est illégal. Autre suite du feuilleton autour de Jensen Huang : d'après Clubic, Donald Trump, qui a soutenu son retour à la tête du groupe, a assuré au conseil d'administration que le dirigeant n'était pas une menace pour la sécurité nationale. Dans une chronique de The Guardian, Jonathan Freedland y voit au contraire une atteinte à l'état de droit.
+
+Quatrième sujet, l'emploi. Selon Bloomberg, cité par The Decoder, SAP s'apprête à supprimer au moins dix mille postes dans le cadre d'une vaste réorganisation autour de l'IA. Bloomberg s'appuie sur des personnes proches du dossier. Clubic relaie également ce projet chez le numéro un européen du logiciel.
+
+Cinquième sujet, les données pour les agents. D'après The Decoder, l'agent d'analyse de données de ChatGPT Work n'est pas encore assez précis. Sous le nom de code Athena, OpenAI construit une couche sémantique qui fournirait aux agents des définitions standardisées des indicateurs d'entreprise. L'outil pourrait placer OpenAI en concurrence directe avec Snowflake et Databricks.
+
+Sixième sujet, côté développeurs. Selon le Blog du Modérateur, Anthropic lance en bêta publique les Skills over MCP. Les services connectés à Claude peuvent désormais fournir, en plus de leurs outils, les consignes pour bien les utiliser. D'après le titre de l'article, les serveurs MCP peuvent aussi gérer des tâches longues.
+
+Septième sujet, toujours les agents, mais dans les puces. Selon Clubic, TSMC a montré comment ses clients pourraient confier à un agent d'IA l'écriture des scripts qui préparent le câblage d'une puce, un travail qui peut prendre des semaines.
+
+Huitième sujet, la recherche. D'après The Decoder, trois études de Meta et d'AMI Labs, la start-up de Yann LeCun, soutiennent son pari sur l'architecture JEPA, une alternative aux grands modèles de langage. Elle vise à doter les machines d'un modèle interne du monde, capable de saisir les causes et les effets. Les travaux montrent des progrès en planification robotique, en efficacité d'entraînement et en correction d'erreurs, mais ces briques doivent encore être assemblées.
+
+Neuvième sujet, le marché des données d'entraînement. La lettre Latent Space reçoit Gabe Greenberg, fondateur de G2i. Il explique comment les grands laboratoires arbitrent entre payer plus cher des données dont ils gardent l'exclusivité, ou obtenir un rabais sur des données qu'un concurrent pourra aussi acheter.
+
+Dixième sujet, la santé. La CNIL et la Haute Autorité de santé publient un guide commun sur le bon usage de l'IA en contexte de soins. L'objectif est de clarifier les règles et les bonnes pratiques pour les acteurs de la santé. Une lecture utile si vous travaillez sur des projets dans ce secteur.
+
+Onzième sujet, les infrastructures. Selon The Guardian, les autorités belges ont ordonné à Google d'arrêter les travaux d'un grand centre de données dans le sud du pays, car les modifications demandées au permis initial n'avaient pas été approuvées. Un responsable de la région wallonne, cité par la télévision publique RTBF, indique que le bâtiment était presque terminé, gros œuvre achevé, malgré le refus du permis.
+
+Douzième sujet, l'adoption en France. L'Usine Digitale croise deux enquêtes, l'une d'Adobe auprès d'actifs, l'autre présentée par Dell auprès de décideurs. Le média relève un paradoxe : la souveraineté grimpe à 77 pour cent, d'après son titre, alors que seuls 8 pour cent des actifs utilisent Mistral AI. Les entreprises adoptent des assistants américains tout en voulant garder la main sur leurs données.
+
+Treizième sujet, l'image. D'après Clubic, le New York Times interdit à ses photographes pigistes d'utiliser la dernière version de Photoshop. En cause, des outils d'IA capables de brouiller la frontière entre retouche et invention.
+
+Dernier sujet, la conduite autonome. Selon Clubic, Waymo fait face à un nouveau rappel, ses robotaxis s'étant aventurés sur des voies d'autoroute fermées. Le média souligne leurs difficultés lorsque la vitesse augmente.
+
+Voilà pour aujourd'hui. Bon week-end, et à bientôt.
